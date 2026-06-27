@@ -1,6 +1,4 @@
-Here's a highly graphical, midnight-themed README for your GitHub repository:
 
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=180&section=header&text=jaya-v07&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
